@@ -70,6 +70,7 @@
   ```bash 
   node app/index.js
   ```
+- Перейти по ссылке http://localhost:8081
 
 ## Цепочка действия
 - [Демонстрация](https://drive.google.com/file/d/1kdnW1xp4XnQfBNtjZNLX3yTky5iiXHJr/view?usp=share_link)
